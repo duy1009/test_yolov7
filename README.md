@@ -1,5 +1,5 @@
 ### Cài thư viện
-`pip install -r yolov7\requirements.txt`
+`pip install -r yolov7/requirements.txt`
 
 ### Detect images/video/rtsp url
 
